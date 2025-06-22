@@ -26,7 +26,7 @@ A simple and modern quiz application built with Flutter. This app fetches quiz q
 
 1. **Clone the repository:**
    ```sh
-   git clone git@laptop.github.com:dev-prasanna-sonawane/Quiz-App-Flutter.git
+   git clone git@github.com:dev-prasanna-sonawane/Quiz-App-Flutter.git
    cd Quiz-App-Flutter
    ```
 
@@ -74,4 +74,4 @@ This app uses [`flutter_dotenv`](https://pub.dev/packages/flutter_dotenv) to man
 
 ## Contributing
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
